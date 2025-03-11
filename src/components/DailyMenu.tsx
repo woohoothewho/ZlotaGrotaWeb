@@ -15,21 +15,21 @@ const dishes: Dish[] = [
     name: "Makaron Włoski",
     description: "z sosem i świeżym parmezanem",
     price: "39 zł",
-    image: "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/pasta.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL3Bhc3RhLmpwZyIsImlhdCI6MTc0MTIxNjE2MSwiZXhwIjoxNzQxODIwOTYxfQ.R7WpN3AWbBE0i0GH9bkCA6OqH9dbbw2nnteE8Te_ATc"
+    image: "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/pasta.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL3Bhc3RhLmpwZyIsImlhdCI6MTc0MTcyNjEyMSwiZXhwIjoxNzQ0MzE4MTIxfQ.rRjt1Q60SR3nd7jgJUMMND5grl7AgNGDsY4F5_BpOU4"
   },
   {
     id: 2,
     name: "Barszcz Czerwony",
     description: "z ziołami i kwaśną śmietaną",
     price: "25 zł",
-    image: "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/soup.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL3NvdXAuanBnIiwiaWF0IjoxNzQxMjE2MTcwLCJleHAiOjE3NDE4MjA5NzB9.oLjJFXfu0rxCLTdwW1lQ8h3kTTZSKxGe-LQ0WOO6hak"
+    image: "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/soup.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL3NvdXAuanBnIiwiaWF0IjoxNzQxNzI2MTM4LCJleHAiOjE3NDQzMTgxMzh9.FbDIN9CwMoy9EOX8NbWY4cs5eIBmoMAPTn6_mCyXl8s"
   },
   {
     id: 3,
     name: "Sernik Truskawkowy",
     description: "z musem truskawkowym i owocami.",
     price: "45 zł",
-    image: "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/cake.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL2Nha2UuanBnIiwiaWF0IjoxNzQxMjE2MTgzLCJleHAiOjE3NDE4MjA5ODN9.22IPaEGWHmZShsEEdYo73tAuqg0-raR1PdFfeGDCq7g"
+    image: "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/cake.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL2Nha2UuanBnIiwiaWF0IjoxNzQxNzI2MTA5LCJleHAiOjE3NDQzMTgxMDl9.YXVhXW_XfAz9iX8tgn-DAjPwrWVuZIHVd1HE7q74JfI"
   }
 ];
 
