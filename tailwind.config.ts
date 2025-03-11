@@ -111,7 +111,7 @@ export default {
 				'pulse-slow': 'pulse-slow 3s ease-in-out infinite'
 			},
 			backgroundImage: {
-				'restaurant-bg': "url('https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/zlotaMain1.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL3psb3RhTWFpbjEucG5nIiwiaWF0IjoxNzQxMjE1OTQzLCJleHAiOjE3NDE4MjA3NDN9.C4rDnR7iCr3fGy3qLSoj1Qn7ofuo7IH--lQHOFXAwbw')"
+				'restaurant-bg': "url('https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/zlotaMain1.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL3psb3RhTWFpbjEucG5nIiwiaWF0IjoxNzQxNzI2MzkzLCJleHAiOjE3NDQzMTgzOTN9.sbd9XF4k2lmpRtqEvJYclgJ8x1sKYGihLx2CbiNWI8M')"
 			}
 		}
 	},
