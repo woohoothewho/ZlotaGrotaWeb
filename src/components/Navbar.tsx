@@ -39,8 +39,8 @@ const Navbar = () => {
         <a href="#" className="flex items-center">
         <img 
   src={isScrolled 
-    ? "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/logo/logoZlota4PNG.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL2xvZ28vbG9nb1psb3RhNFBORy5wbmciLCJpYXQiOjE3NDEyMTkyNzcsImV4cCI6MTc0MTgyNDA3N30.MsKrTHaNyKbVSv-E2n6kyemys_0c-rTJNVBLQSnr2MM" 
-    : "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/logoZlota2PNG.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL2xvZ29abG90YTJQTkcucG5nIiwiaWF0IjoxNzQxMjE1NTI5LCJleHAiOjE3NDE4MjAzMjl9.mx4-U04H4ySq35Y9y6FDVV12DtznSIW_D5qNm4c_Y-Q"
+    ? "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/logo/logoZlota3PNG.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL2xvZ28vbG9nb1psb3RhM1BORy5wbmciLCJpYXQiOjE3NDE3MjU5NzEsImV4cCI6MTc0NDMxNzk3MX0.lfVu270aZYWDzvjIbVMhroHPdjB_26TYb1mDf-Qu0z0" 
+    : "https://egjhivmcxepjebaeibiy.supabase.co/storage/v1/object/sign/zlota.grota.website/logo/logoZlota2PNG.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ6bG90YS5ncm90YS53ZWJzaXRlL2xvZ28vbG9nb1psb3RhMlBORy5wbmciLCJpYXQiOjE3NDE3MjU5NDksImV4cCI6MTc0NDMxNzk0OX0.6j0G_Ewhinhc_4VCTmX15f0k_eWOTCekmU4ygrDmNaE"
   } 
   alt="Restaurant Logo" 
   className="h-12 md:h-20 object-contain transition-all duration-300" 
